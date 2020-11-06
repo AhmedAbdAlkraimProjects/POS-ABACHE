@@ -11,6 +11,6 @@
 
 <img src="5-Product AND Categorys.jpg">
 
-# Customeres
+# Customers
 
 <img src="7-Customer.jpg">
